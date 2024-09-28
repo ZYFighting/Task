@@ -1,5 +1,9 @@
 #include<stdio.h>
 {
-	print("Hello world\n");
+	print("www\n");
+	
+
+	print("1234\n");
+	print("abcd\n");
 	return 0;
 }
